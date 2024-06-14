@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muftawu&label=Profile%20views&color=0e75b6&style=flat" alt="muftawu" /> </p>
 
-- 🔭 I’m currently working on [[datasetcollector] python package](https://test.pypi.org/project/datasetcollector/)
+- 🔭 I’m currently working on [dataset collector python package](https://test.pypi.org/project/datasetcollector/)
 
 - 📫 How to reach me **mohammedyiwere@gmail.com**
 
